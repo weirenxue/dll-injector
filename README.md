@@ -9,4 +9,5 @@
 5. Get address of "LoadLibraryA".
 6. Create remote thread to load the dll.
 
-Please feel free to use these repositories if you want to know how to [build a dll](https://github.com/weirenxue/dll-dllmain-and-function) and [use a dll](https://github.com/weirenxue/dll-load-in-cpp) in VC++.
+Please feel free to use these repositories if you want to know how to [build a dll](https://github.com/weirenxue/dll-dllmain-and-function) and [use a dll](https://github.com/weirenxue/dll-load-in-cpp) in VC++.  
+Or refer to [dll injection in C# version.](https://github.com/weirenxue/dll-injector-csharp)
